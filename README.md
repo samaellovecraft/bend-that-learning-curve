@@ -25,3 +25,9 @@ The idea of this repo is for me to make a valuable commit to my personal growth 
     lspconfig.asm_lsp.setup({ root_dir = require('lspconfig.util').root_pattern('.asm-lsp.toml', '.git', '*.asm', '*.s', '*.S') })
     ```
 
+## Mastering pwn
+
+- Assembly
+    - [x] [Intro to x86 Assembly](assembly_x86_101/)
+    - [ ] understand every second of this [video](https://www.youtube.com/watch?v=75gBFiFtAb8)
+

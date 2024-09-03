@@ -2,6 +2,8 @@
 
 The idea of this repo is for me to make a valuable commit to my personal growth and future (ideally) every day.
 
+![](./graph.png)
+
 ## Mastering NeoVim
 
 - vim motions:
